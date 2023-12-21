@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   
-  <a href="GyeomPark:gyeomie67@naver.com">
-    <img src="https://img.shields.io/badge/gyeomie67@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+  <a href="GyeomPark:dotori634@gmail.com">
+    <img src="https://img.shields.io/badge/dotori634@gmail.com-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp
   </a>
 </div>
