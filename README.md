@@ -1,7 +1,7 @@
 <!-- 타이틀 부분 -->
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=0077b6&text=I+am+Gyeom&fontColor=caf0f8&animation=fadeIn&fontAlignY=55&section=header&width=270&height=250)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=0077b6&text=HELLO&fontColor=caf0f8&animation=fadeIn&fontAlignY=55&section=header&width=270&height=250)
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer)](https://git.io/typing-svg)
